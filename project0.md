@@ -18,7 +18,7 @@ This shows a major flaw in most LLMs, counting and more generally dealing with n
 
 Prompt:
 Can you describe this image?
-![alt text](https://png.pngtree.com/png-clipart/20210704/original/pngtree-teddy-bear-illustration-eating-ice-cream-png-image_6489025.jpg)
+<img src="https://png.pngtree.com/png-clipart/20210704/original/pngtree-teddy-bear-illustration-eating-ice-cream-png-image_6489025.jpg" alt="drawing" width="256"/>
 
 Bard Response:
 "
